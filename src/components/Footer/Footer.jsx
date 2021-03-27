@@ -33,7 +33,7 @@ const Footer = () => {
             })}
         </div>
       </Container>
-      created by Tina
+      created by Bhavini Tina Patel
     </footer>
   );
 };
