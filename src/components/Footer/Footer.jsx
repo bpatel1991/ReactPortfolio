@@ -33,6 +33,7 @@ const Footer = () => {
             })}
         </div>
       </Container>
+      created by Tina
     </footer>
   );
 };
